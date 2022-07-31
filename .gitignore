@@ -111,3 +111,6 @@ dist
 
 # Package-Lock
 package-lock.json
+
+# VS Code
+.vscode
